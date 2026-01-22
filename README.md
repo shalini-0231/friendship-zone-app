@@ -31,7 +31,6 @@ Friendship zone app
 └── images/Friends.PNG
 
 
-https://shalini-0231.github.io/friendship-zone-app/Homepage.html
 
 
 ---
